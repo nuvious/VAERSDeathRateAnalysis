@@ -18,7 +18,7 @@ Of the 184285800 fully vaccinated americans, 24580 deaths were reported in VAERS
 
 This yields a 13.34 deaths per 100k for fully vaccinated individuals in the US.
 
-To compare the age-adjusted mortality rate in 2018 (before COVID) in the US was 739.1 per 100k which is 55.4 times higher than the VAERS reported COVID19 death rate.
+To compare the age-adjusted mortality rate in 2018 (before COVID) in the US was 723.6 per 100k which is 54.24 times higher than the VAERS reported COVID19 death rate.
 ```
 
 Overall the VAERS dataset, despite containing entries for deaths do not on their own provide substantial causal evidence for death and the COVID 19 vaccines available to the public. Deaths reported in realtion to the COVID vaccine in VAERS fall so far below the pre-COVID death rate any assumption of causal link need substantially better evidence than the death entries in VAERS.
